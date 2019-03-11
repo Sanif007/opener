@@ -13,8 +13,7 @@ Type python opener.py
 I hope you like my work . 
 
 Follow me on instagram https://www.instagram.com/indiam_hacker_ninja/ 
-
-# or
+                           or
 https://www.instagram.com/haoi_hackers_academy_of_india/
 
 Subsribe my youtube channel - https://bit.ly/2um6cLb 
