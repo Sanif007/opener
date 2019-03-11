@@ -5,9 +5,15 @@ This is just a simple file opener and modifier
 To use it install python and git(for cloning this) in termux app
 
 Type pkg install git && pkg install python 
+
+Type git clone https://www.github.com/Sanif007/opener.git
+
 Type cd opener
+
 Type python opener.py
+
 """ Enter name of file """
+
 """ choose option 1 for reading only. 2 for adding 3 lines and 3 for erasing file's data """
 
 I hope you like my work . 
